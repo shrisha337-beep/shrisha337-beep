@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shrisha 👋</h1> <h3 align="center">Full-Stack AI Engineer | Building production systems where ML meets shipped code</h3> <p align="center"> I turn AI models into real, deployed products — not notebooks. Currently a CSE undergrad shipping full-stack AI platforms, computer vision systems, and NLP engines end-to-end. </p> <p align="center"> <a href="mailto:shrisha337@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="http://linkedin.com/in/shri04/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/shrisha337-beep"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" /> </p> <hr/>
+<h1 align="center">Hi, I'm Shrisha </h1> <h3 align="center">Full-Stack AI Engineer | Building production systems where ML meets shipped code</h3> <p align="center"> I turn AI models into real, deployed products — not notebooks. Currently a CSE undergrad shipping full-stack AI platforms, computer vision systems, and NLP engines end-to-end. </p> <p align="center"> <a href="mailto:shrisha337@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="http://linkedin.com/in/shri04/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/shrisha337-beep"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" /> </p> <hr/>
 🛠️ Tech Stack
 
 Languages
@@ -45,7 +45,7 @@ Problem: Users need content-based movie recommendations without relying on colla
 🔗 Live Demo · Code
 <hr/>
 📊 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shrisha337-beep&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrisha337-beep&layout=compact&theme=tokyonight&hide_border=true" width="48%"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrisha337-beep&theme=tokyonight&hide_border=true" width="60%"/> </p> <hr/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrisha337-beep&theme=tokyonight&hide_border=true" width="60%"/> </p> <hr/>
 🏆 Honors & Recognition
 SCROLLS 2025 — Winner, Technical Research Paper Competition (AI/ML methodologies)
 National AI Agent Product Space Hackathon — Designed and deployed an LLM orchestrator with deterministic fallback mechanisms
